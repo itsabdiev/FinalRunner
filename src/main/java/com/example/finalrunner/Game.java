@@ -214,15 +214,12 @@ public class Game extends Application {
             uploadFiles("Run",images_list_runner);
         }
 
-
-
     }
 
     void remove(Group group, Heart heart) {
         group.getChildren().remove(heart.heartView);
     }
     void stop (Timeline timeline) {
-
         if (hearts.size() <= 0) {
             timeline.stop();
             onProcess = false;
@@ -237,6 +234,7 @@ public class Game extends Application {
         runner.imageView.setX(runner.initialPosX);
         runner.imageView.setY(runner.initialPosY);
         timeline.play();
+
         onProcess = true;
         hearts.add(heart1);
         hearts.add(heart2);
