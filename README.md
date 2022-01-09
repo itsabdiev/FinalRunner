@@ -45,5 +45,5 @@ __Runner🏃‍♂️__  <br />
 [Google]: https://www.google.com/
 [Java]: https://www.java.com/ru/
 [Postgre]: https://www.postgresql.org/
-[youtube]: https://www.youtube.com/watch?v=m6bsIuKyUSs
+[youtube]: https://www.youtube.com/channel/UCEuLEEzKAAwwezAIFld1HOw
 
